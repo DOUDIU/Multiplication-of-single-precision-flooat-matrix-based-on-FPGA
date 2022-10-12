@@ -1,0 +1,6 @@
+memory_initialization_radix=Hex;
+memory_initialization_vector=
+C030E,
+D0909,
+80E08,
+A0A09;
